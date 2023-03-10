@@ -1,0 +1,17 @@
+.right-div {
+  background-color: black;
+}
+.tag-name {
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  margin-left: 35px;
+}
+.tags-ul-list {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}
+.p {
+  color: white;
+}

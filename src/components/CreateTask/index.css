@@ -1,0 +1,42 @@
+.left-div {
+  background-color: #1a171d;
+  height: 100vh;
+  width: 1000px;
+}
+.heading {
+  color: #f3aa4e;
+  font-family: Roboto;
+  font-weight: bold;
+  font-size: 50px;
+  margin-left: 200px;
+}
+.lables {
+  color: white;
+  font-family: roboto;
+  font-weight: bold;
+  margin-left: 200px;
+}
+.inputs {
+  padding: 6px;
+  color: black;
+  width: 300px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 200px;
+}
+.submit-button {
+  background-color: #f3aa4e;
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  padding: 10px;
+  margin-left: 80px;
+  width: 120px;
+  margin-left: 280px;
+  border-color: transparent;
+  border-radius: 5px;
+}
+.left-right-div {
+  display: flex;
+  max-width: 100%;
+}

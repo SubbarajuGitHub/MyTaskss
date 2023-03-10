@@ -1,0 +1,28 @@
+.last {
+  background-color: #1a171d;
+  display: flex;
+  justify-content: space-between;
+  margin-right: 50px;
+  align-items: center;
+  border-radius: 10px;
+  margin-bottom: 10px;
+}
+.task {
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  margin-left: 20px;
+}
+.id {
+  background-color: #f3aa4e;
+  padding: 5px;
+  border: solid 2px #f3aa4e;
+  border-radius: 10px;
+  margin-right: 20px;
+}
+.no-task {
+  color: white;
+  font-weight: bold;
+  font-family: roboto;
+  margin-left: 20px;
+}
